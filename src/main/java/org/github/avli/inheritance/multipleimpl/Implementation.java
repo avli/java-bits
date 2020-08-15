@@ -9,7 +9,7 @@ public class Implementation extends Base implements FooProvider{
 
     public static void main(String[] args) {
         Implementation impl = new Implementation();
-        // "Base.foo()" will be printed. Compare this with Kotlin overriding rules:
+        // "Base.foo()" will be printed. Compare this with the Kotlin overriding rules:
         // https://kotlinlang.org/docs/reference/classes.html#overriding-rules.
         impl.foo();
     }
