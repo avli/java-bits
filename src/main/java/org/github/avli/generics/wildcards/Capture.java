@@ -1,4 +1,4 @@
-package org.github.avli.inheritance.org.github.avli.generics.wildcards;
+package org.github.avli.generics.wildcards;
 
 public class Capture {
 
